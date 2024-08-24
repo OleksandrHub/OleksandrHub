@@ -8,7 +8,7 @@
 - ⚡ Fun fact **I think I am productive**
 - 
 ## 🎓 Education
-- ** HTML. CSS. PYTHON ** at FreeCodeCamp
+- **HTML. CSS. PYTHON** at FreeCodeCamp
 - Video on Youtube
 
 ## ✨ Skills
