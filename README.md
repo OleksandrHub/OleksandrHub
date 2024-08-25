@@ -56,9 +56,9 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://fb.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oleksandr ross" height="30" width="40" /></a>
-  <a href="https://instagram.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oleksandrdev" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oleksandrdev" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61553899672822" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oleksandr ross" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/oleksandrdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oleksandrdev" height="30" width="40" /></a>
+  <a href="https://youtube.com/@codeforall-404?si=p-k_lqNHph5qND8S" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oleksandrdev" height="30" width="40" /></a>
 </p>
 
 <p align="center">
