@@ -37,7 +37,7 @@
 </p>
 
 ### **Frameworks & Libraries:** 
-- Bootstrap, D3.js
+- Bootstrap
 
 ### **Tools & Platforms:** 
 - Git, GitHub, VS Code
