@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm OLEKSANDR</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </p>
 
-- 🌱 I’m currently learning **JavaScript, React.**
+- 🌱 I’m currently learning **GitHib, Python**
 
 - 📫 How to reach me **[sasha.klishch1@gmail.com](mailto:sasha.klishch1@gmail.com)**
 
 - ⚡ Fun fact **I think I am productive**
 
 ## 🎓 Education
-- **HTML, CSS, PYTHON** at FreeCodeCamp
+- The Odin Project at **HTML, CSS**
+- Prometheus CS:50 Web programming with Python and Javascript at **HTML, CSS**
+- FreeCodeCamp at **HTML, CSS**
 - Video on YouTube
 
 ## ✨ Skills
@@ -43,7 +45,7 @@
 - Git, GitHub, VS Code
 
 ### **Domains:** 
-- Front-End Development
+- Full-stack Development
 
 ## 🚀 Projects
 
