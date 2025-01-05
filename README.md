@@ -51,7 +51,7 @@
 
 <!-- Example project (you can add your projects similarly) -->
 ### **Landing Page**
-- **Description:** Short description of the project.
+- **Description:** This is a simple project from the course to learn how to create one-page sites from scratch
 - **Tech Stack:** HTML, CSS
 - **Link:** [Project Link](https://github.com/OleksandrHub/Landing-Page)
 
