@@ -50,10 +50,10 @@
 ## 🚀 Projects
 
 <!-- Example project (you can add your projects similarly) -->
-### **Project Name**
+### **Landing Page**
 - **Description:** Short description of the project.
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Link:** [Project Link](https://github.com/your-username/project-name)
+- **Tech Stack:** HTML, CSS
+- **Link:** [Project Link](https://github.com/OleksandrHub/Landing-Page)
 
 ## 🌐 Connect with me
 
