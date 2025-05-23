@@ -61,6 +61,11 @@
 - **Технології:** HTML, CSS
 - **Посилання:** [Royal Gambit Site](https://github.com/OleksandrHub/Royal-Gambit-Site)
 
+  ### **FreeCodeCamp_Web_Projects**
+- **Опис:** Колекція моїх веб-проектів із FreeCodeCamp.
+- **Технології:** HTML, CSS, Bootstrap
+- **Посилання:** [FreeCodeCamp_Web_Projects](https://github.com/OleksandrHub/FreeCodeCamp_Web_Projects)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> 
 </p>
