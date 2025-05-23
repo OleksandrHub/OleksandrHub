@@ -1,5 +1,5 @@
 <h1 align="center">Привіт 👋, я Oleksandr</h1>
-<h3 align="center">Розробник-початківець із Тернополя, Україна</h3>
+<h3 align="center">Розробник-початківець</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
