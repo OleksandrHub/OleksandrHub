@@ -61,11 +61,6 @@
 - **Технології:** HTML, CSS
 - **Посилання:** [Royal Gambit Site](https://github.com/OleksandrHub/Royal-Gambit-Site)
 
-### **BootstrapCourse**
-- **Опис:** Навчальний проект із використанням Bootstrap для створення адаптивного дизайну.
-- **Технології:** HTML, Bootstrap
-- **Посилання:** [BootstrapCourse](https://github.com/OleksandrHub/BootstrapCourse)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> 
 </p>
