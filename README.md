@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm OLEKSANDR</h1>
-<h3 align="center">Full-stack Developer</h3>
+<h1 align="center">Привіт 👋, я Oleksandr</h1>
+<h3 align="center">Розробник-початківець із Тернополя, Україна</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </p>
 
-- 🌱 I’m currently learning **GitHib, Python**
+- 🌱 Я зараз вивчаю **Python, GitHub, основи веб-розробки (HTML, CSS)**
 
-- 📫 How to reach me **[sasha.klishch1@gmail.com](mailto:sasha.klishch1@gmail.com)**
+- 📫 Як зі мною зв’язатися: **[sasha.klishch1@gmail.com](mailto:sasha.klishch1@gmail.com)**
 
-- ⚡ Fun fact **I think I am productive**
+- ⚡ Цікавий факт: **Я думаю, що я продуктивний!**
 
-## 🎓 Education
-- The Odin Project at **HTML, CSS**
-- Prometheus CS:50 Web programming with Python and Javascript at **HTML, CSS**
-- FreeCodeCamp at **HTML, CSS**
-- Video on YouTube
+## 🎓 Освіта
+- **FreeCodeCamp** – Основи Python та веб-розробки (HTML, CSS)
+- **Prometheus CS50: Web Programming with Python and JavaScript** – HTML, CSS, Python
+- **The Odin Project** – HTML, CSS
+- **Відео на YouTube** – Додаткові матеріали з програмування
 
-## ✨ Skills
+## ✨ Навички
 
-### **Languages:**
+### **Мови:**
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -27,41 +27,44 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+  </a> 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
   </a> 
 </p>
 
-### **Frameworks & Libraries:** 
+### **Фреймворки та бібліотеки:** 
 - Bootstrap
 
-### **Tools & Platforms:** 
-- Git, GitHub, VS Code
+### **Інструменти та платформи:** 
+- Git, GitHub
 
-### **Domains:** 
-- Full-stack Development
+### **Сфери:** 
+- Веб-розробка, алгоритми, структури даних
 
-## 🚀 Projects
+## 🚀 Проекти
 
-<!-- Example project (you can add your projects similarly) -->
-### **Landing Page**
-- **Description:** This is a simple project from the course to learn how to create one-page sites from scratch
-- **Tech Stack:** HTML, CSS
-- **Link:** [Project Link](https://github.com/OleksandrHub/Landing-Page)
+### **FreeCodeCamp_All_Python**
+- **Опис:** Колекція моїх навчальних проектів із FreeCodeCamp, включаючи калькулятори, алгоритми та утиліти.
+- **Технології:** Python
+- **Посилання:** [FreeCodeCamp_All_Python](https://github.com/OleksandrHub/FreeCodeCamp_All_Python)
 
-## 🌐 Connect with me
+### **18Laboratory**
+- **Опис:** Проект із алгоритмами та програмуванням на C++, створений для практики.
+- **Технології:** C++
+- **Посилання:** [18Laboratory](https://github.com/OleksandrHub/18Laboratory)
 
-<p align="left">
-  <a href="https://www.facebook.com/profile.php?id=61553899672822" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oleksandr ross" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/oleksandrdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oleksandrdev" height="30" width="40" /></a>
-  <a href="https://youtube.com/@codeforall-404?si=p-k_lqNHph5qND8S" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oleksandrdev" height="30" width="40" /></a>
-</p>
+### **Royal Gambit Site**
+- **Опис:** Простий веб-сайт, створений для практики HTML та CSS.
+- **Технології:** HTML, CSS
+- **Посилання:** [Royal Gambit Site](https://github.com/OleksandrHub/Royal-Gambit-Site)
+
+### **BootstrapCourse**
+- **Опис:** Навчальний проект із використанням Bootstrap для створення адаптивного дизайну.
+- **Технології:** HTML, Bootstrap
+- **Посилання:** [BootstrapCourse](https://github.com/OleksandrHub/BootstrapCourse)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> 
