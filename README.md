@@ -77,19 +77,19 @@
 - **Опис:** Простий навчальний додаток на Vue.js для отримання та відображення погодних даних через Weather API. Проєкт створений для ознайомлення з Vue 3, компонентами, формами, валідацією та роботою з API.  
 - **Період:** 06/2025 – 06/2025  
 - **Технології:** Vue.js, JavaScript  
-- **Посилання:** [Netlify](#https://weatherapiohub.netlify.app/) | [GitHub](#https://github.com/OleksandrHub/WeatherAPI)  
+- **Посилання:** [Netlify](https://weatherapiohub.netlify.app/) | [GitHub](https://github.com/OleksandrHub/WeatherAPI)  
 
 ### **Crypto Exchange Vue Project**
 - **Опис:** Простий навчальний додаток на Vue.js 3 для взаємодії з API обміну криптовалют. Дозволяє переглядати курси криптовалют, обирати торгові пари та додавати їх до списку обраних. Проєкт створений для вивчення основ роботи з Vue 3, компонентами, формами, асинхронними запитами та управлінням станом.  
 - **Період:** 06/2025 – 06/2025  
 - **Технології:** Vue.js, JavaScript  
-- **Посилання:** [Netlify](#https://cryptoexchangeohub.netlify.app/) | [GitHub](#https://github.com/OleksandrHub/CryptoExChange)  
+- **Посилання:** [Netlify](https://cryptoexchangeohub.netlify.app/) | [GitHub](https://github.com/OleksandrHub/CryptoExChange)  
 
 ### **ToDoListOHub**
 - **Опис:** Навчальний веб-додаток для управління задачами з автентифікацією користувачів. Складається з бекенду (FastAPI, SQLite, SQLAlchemy) та фронтенду (Vue.js 3), дозволяє реєструватися, входити, створювати, редагувати, видаляти та фільтрувати задачі.  
 - **Період:** 06/2025 – 06/2025  
 - **Технології:** FastAPI, Vue.js, Python, JavaScript, SQLAlchemy  
-- **Посилання:** [Netlify](#https://todolistohub.netlify.app/) | [GitHub](#https://github.com/OleksandrHub/MyToDoList)  
+- **Посилання:** [Netlify](https://todolistohub.netlify.app/) | [GitHub](https://github.com/OleksandrHub/MyToDoList)  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OleksandrHub&label=Profile%20views&color=0e75b6&style=flat" alt="OleksandrHub" /> 
