@@ -1,21 +1,26 @@
-<h1 align="center">Привіт 👋, я Oleksandr</h1>
-<h3 align="center">Розробник-початківець</h3>
+# Привіт 👋, я Oleksandr
+
+## <h3 align="center">Розробник-початківець</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </p>
 
-- 🌱 Я зараз вивчаю **Python, GitHub, основи веб-розробки (HTML, CSS)**
-
-- 📫 Як зі мною зв’язатися: **[sasha.klishch1@gmail.com](mailto:sasha.klishch1@gmail.com)**
-
+- 🌱 Я зараз вивчаю **Python, JavaScript, FastAPI, Vue.js, основи веб-розробки (HTML, CSS)**  
+- 📫 Як зі мною зв’язатися: **[sasha.klishch1@gmail.com](mailto:sasha.klishch1@gmail.com)**  
+- 📱 Телефон: +380971756993  
+- 🔗 [Профіль LinkedIn](https://www.linkedin.com/in/%D0%BE%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BA%D0%BB%D1%96%D1%89-b1571936b/)  
 - ⚡ Цікавий факт: **Я думаю, що я продуктивний!**
 
 ## 🎓 Освіта
-- **FreeCodeCamp** – Основи Python та веб-розробки (HTML, CSS)
-- **Prometheus CS50: Web Programming with Python and JavaScript** – HTML, CSS, Python
-- **The Odin Project** – HTML, CSS
-- **Відео на YouTube** – Додаткові матеріали з програмування
+- **Тернопільський національний технічний університет імені Івана Пулюя**  
+  - Спеціальність: Комп'ютерні науки  
+  - 2024 – теперішній час, Тернопіль, Україна  
+- **FreeCodeCamp** – Scientific Computing with Python Certification  
+- **Sololearn** – Introduction to SQL, Introduction to Python  
+- **Prometheus CS50: Web Programming with Python and JavaScript** – HTML, CSS, Python  
+- **The Odin Project** – HTML, CSS  
+- **Відео на YouTube** – Додаткові матеріали з програмування  
 
 ## ✨ Навички
 
@@ -33,41 +38,61 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
   </a> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
 </p>
 
 ### **Фреймворки та бібліотеки:** 
+- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/> 
+  </a> FastAPI (Intermediate)  
+- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="40" height="40"/> 
+  </a> Vue.js (Beginner)  
 - Bootstrap
 
 ### **Інструменти та платформи:** 
-- Git, GitHub
+- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> 
+  </a> Git (Intermediate)  
+- <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/> 
+  </a> GitHub  
+- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" height="40"/> 
+  </a> Docker (Beginner)  
+- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.mysql.com/common/themes/sakila/favicon.ico" alt="SQL" width="40" height="40"/> 
+  </a> SQL (Beginner) 
 
 ### **Сфери:** 
-- Веб-розробка, алгоритми, структури даних
+- Веб-розробка  
+- Алгоритми  
+- Структури даних  
 
 ## 🚀 Проекти
 
-### **FreeCodeCamp_All_Python**
-- **Опис:** Колекція моїх навчальних проектів із FreeCodeCamp, включаючи калькулятори, алгоритми та утиліти.
-- **Технології:** Python
-- **Посилання:** [FreeCodeCamp_All_Python](https://github.com/OleksandrHub/FreeCodeCamp_All_Python)
+### **Weather API Vue Project**
+- **Опис:** Простий навчальний додаток на Vue.js для отримання та відображення погодних даних через Weather API. Проєкт створений для ознайомлення з Vue 3, компонентами, формами, валідацією та роботою з API.  
+- **Період:** 06/2025 – 06/2025  
+- **Технології:** Vue.js, JavaScript  
+- **Посилання:** [Netlify](#https://weatherapiohub.netlify.app/) | [GitHub](#https://github.com/OleksandrHub/WeatherAPI)  
 
-### **18Laboratory**
-- **Опис:** Проект із алгоритмами та програмуванням на C++, створений для практики.
-- **Технології:** C++
-- **Посилання:** [18Laboratory](https://github.com/OleksandrHub/18Laboratory)
+### **Crypto Exchange Vue Project**
+- **Опис:** Простий навчальний додаток на Vue.js 3 для взаємодії з API обміну криптовалют. Дозволяє переглядати курси криптовалют, обирати торгові пари та додавати їх до списку обраних. Проєкт створений для вивчення основ роботи з Vue 3, компонентами, формами, асинхронними запитами та управлінням станом.  
+- **Період:** 06/2025 – 06/2025  
+- **Технології:** Vue.js, JavaScript  
+- **Посилання:** [Netlify](#https://cryptoexchangeohub.netlify.app/) | [GitHub](#https://github.com/OleksandrHub/CryptoExChange)  
 
-### **Royal Gambit Site**
-- **Опис:** Простий веб-сайт, створений для практики HTML та CSS.
-- **Технології:** HTML, CSS
-- **Посилання:** [Royal Gambit Site](https://github.com/OleksandrHub/Royal-Gambit-Site)
-
-  ### **FreeCodeCamp_Web_Projects**
-- **Опис:** Колекція моїх веб-проектів із FreeCodeCamp.
-- **Технології:** HTML, CSS, Bootstrap
-- **Посилання:** [FreeCodeCamp_Web_Projects](https://github.com/OleksandrHub/FreeCodeCamp_Web_Projects)
+### **ToDoListOHub**
+- **Опис:** Навчальний веб-додаток для управління задачами з автентифікацією користувачів. Складається з бекенду (FastAPI, SQLite, SQLAlchemy) та фронтенду (Vue.js 3), дозволяє реєструватися, входити, створювати, редагувати, видаляти та фільтрувати задачі.  
+- **Період:** 06/2025 – 06/2025  
+- **Технології:** FastAPI, Vue.js, Python, JavaScript, SQLAlchemy  
+- **Посилання:** [Netlify](#https://todolistohub.netlify.app/) | [GitHub](#https://github.com/OleksandrHub/MyToDoList)  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> 
+  <img src="https://komarev.com/ghpvc/?username=OleksandrHub&label=Profile%20views&color=0e75b6&style=flat" alt="OleksandrHub" /> 
 </p>
 
 <p align="center">
