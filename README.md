@@ -32,6 +32,12 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="scss" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
@@ -43,6 +49,7 @@
   </a> 
 </p>
 
+
 ### **Фреймворки та бібліотеки:** 
 - <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/> 
@@ -50,7 +57,12 @@
 - <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="40" height="40"/> 
   </a> Vue.js (Beginner)  
-- Bootstrap
+- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40"/>
+  </a> Bootstrap (Intermediate)  
+- <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  </a> Angular (Intermediate)  
 
 ### **Інструменти та платформи:** 
 - <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -74,9 +86,9 @@
 ## 🚀 Проекти
 
 ### **AI NoteTaker**
-- **Опис:** Простий навчальний додаток на Angular який допомагає студентам скорочувати великі фрагменти тексту (наприклад, лекції або статті) у зручні нотатки за допомогою OpenAI. Проєкт створений для ознайомлення з Angular, компонентами, формами, валідацією, роботою з API та роутингом, .  
-- **Період:** 07/2025 – 07/2025  
-- **Технології:** Angular, JavaScript  
+- **Опис:** Простий навчальний додаток на Angular який допомагає студентам скорочувати великі фрагменти тексту (наприклад, лекції або статті) у зручні нотатки за допомогою OpenAI. Проєкт створений для ознайомлення з Angular, компонентами, формами, валідацією, роботою з API та роутингом .  
+- **Період:** 07/2025 – 07/2025, у межах навчальної практики в компанії Magnise.
+- **Технології:** Angular 20, TypeScript, HTML, SCSS, OpenAI API  
 - **Посилання:** [GitHub](https://github.com/OleksandrHub/AI_Notetaker) 
 
 ### **Weather API Vue Project**
