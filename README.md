@@ -1,16 +1,16 @@
-# Привіт 👋, я Oleksandr
+# Hello 👋, I`m Oleksandr
 
-## <h3 align="center">Розробник-початківець</h3>
+## <h3 align="center">Frontend developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </p>
 
-- 🌱 Я зараз вивчаю **Python, JavaScript, FastAPI, Vue.js, основи веб-розробки (HTML, CSS)**  
+- 🌱 Я зараз вивчаю **Typescript, HTML, SCSS до високого рівня**  
 - 📫 Як зі мною зв’язатися: **[sasha.klishch1@gmail.com](mailto:sasha.klishch1@gmail.com)**  
-- 📱 Телефон: +380971756993  
+- 📱 Телефон: +380971756992  
 - 🔗 [Профіль LinkedIn](https://www.linkedin.com/in/%D0%BE%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BA%D0%BB%D1%96%D1%89-b1571936b/)  
-- ⚡ Цікавий факт: **Я думаю, що я продуктивний!**
+- ⚡ Цікавий факт: **Я продуктивний!**
 
 ## 🎓 Освіта
 - **Тернопільський національний технічний університет імені Івана Пулюя**  
@@ -18,9 +18,14 @@
   - 2024 – теперішній час, Тернопіль, Україна  
 - **FreeCodeCamp** – Scientific Computing with Python Certification  
 - **Sololearn** – Introduction to SQL, Introduction to Python  
-- **Prometheus CS50: Web Programming with Python and JavaScript** – HTML, CSS, Python  
-- **The Odin Project** – HTML, CSS  
-- **Відео на YouTube** – Додаткові матеріали з програмування  
+- **Відео на YouTube** – Додаткові матеріали з програмування
+
+## 💼 Досвід роботи
+
+### **Junior Angular Developer** (жовтонь 2025 до теперішній час)
+- Розробка та підтримка складних UI-компонентів.
+- Робота з RxJS для управління асинхронними потоками даних.
+- Виправлення багів, оптимізація продуктивності та робота з Git (GitFlow).
 
 ## ✨ Навички
 
