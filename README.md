@@ -59,23 +59,34 @@
 
 
 ### **Фреймворки та бібліотеки:** 
-- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/> 
-  </a> FastAPI (Intermediate)  
-- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="40" height="40"/> 
-  </a> Vue.js (Beginner)  
-- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40"/>
-  </a> Bootstrap (Intermediate)  
 - <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a> Angular (Intermediate)  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  </a> **Angular** (Intermediate / Working Experience)
+  
+- <a href="https://rxjs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="RxJS" width="40" height="40"/>
+  </a> **RxJS** (Intermediate - Reactive Programming)
+  
+- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
+  </a> **FastAPI** (Beginner)
+
+- <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
+  </a> **C# / .NET** (Beginner - Learning)
+
+- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  </a> **Bootstrap** (Intermediate)
+
+- <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  </a> **Vue.js** (Beginner) 
 
 ### **Інструменти та платформи:** 
 - <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> 
-  </a> Git (Intermediate)  
+  </a> Git (Intermediate - Team work)  
 - <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/> 
   </a> GitHub  
