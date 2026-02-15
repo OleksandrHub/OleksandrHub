@@ -61,46 +61,56 @@
 ### **Фреймворки та бібліотеки:** 
 - <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  </a> **Angular** (Intermediate / Working Experience)
+  </a> <b>Angular</b> (Intermediate / Working Experience)
   
 - <a href="https://rxjs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="RxJS" width="40" height="40"/>
-  </a> **RxJS** (Intermediate - Reactive Programming)
+  </a> <b>RxJS</b> (Intermediate - Reactive Programming)
   
 - <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
-  </a> **FastAPI** (Beginner)
+  </a> <b>FastAPI</b> (Beginner)
 
 - <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
-  </a> **C# / .NET** (Beginner - Learning)
+  </a> <b>C# / .NET</b> (Beginner - Learning)
 
 - <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  </a> **Bootstrap** (Intermediate)
+  </a> <b>Bootstrap</b> (Intermediate)
 
 - <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  </a> **Vue.js** (Beginner) 
+  </a> <b>Vue.js</b> (Beginner) 
 
 ### **Інструменти та платформи:** 
 - <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> 
-  </a> Git (Intermediate - Team work)  
+  </a> <b>Git</b> (Intermediate - Team work)
+
+- <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+  </a> <b>GitLab</b> (Working with CI/CD & Repositories)
+
 - <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/> 
-  </a> GitHub  
+  </a> <b>GitHub</b>
+
 - <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" height="40"/> 
-  </a> Docker (Beginner)  
+  </a> <b>Docker</b> (Beginner)
+
 - <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.mysql.com/common/themes/sakila/favicon.ico" alt="SQL" width="40" height="40"/> 
-  </a> SQL (Beginner) 
+  </a> <b>SQL</b> (Beginner)
 
-### **Сфери:** 
-- Веб-розробка  
-- Алгоритми  
-- Структури даних  
+### <b>Сфери:</b> 
+- <b>Веб-розробка</b> (Frontend & UI/UX)  
+- <b>Алгоритми та структури даних</b>  
+- <b>Математичне моделювання та обчислення</b>  
+- <b>Реактивне програмування</b> (RxJS, Signals)  
+- <b>Архітектура ПЗ</b> (SOLID, Clean Code)  
+- <b>Backend-розробка</b> (Learning .NET & FastAPI 
 
 ## 🚀 Проекти
 
